@@ -1,6 +1,14 @@
-\## TC-001 Login mit gültigen Daten
+\## TC-001: Login mit gültigen Daten
 
-1\. Seite öffnen
+
+
+\*\*Ziel:\*\* Prüfen, ob der Benutzer sich erfolgreich anmelden kann.
+
+
+
+\*\*Schritte:\*\*
+
+1\. Seite öffnen: https://www.saucedemo.com/
 
 2\. Username: standard\_user
 
@@ -8,5 +16,13 @@
 
 4\. Login klicken
 
-Erwartetes Ergebnis: Weiterleitung zur Produktseite
+
+
+\*\*Erwartetes Ergebnis:\*\* Weiterleitung auf Produktseite, keine Fehlermeldung
+
+
+
+\*\*Status:\*\* Pass ✅
+
+\*\*Beweis:\*\* ../evidence/screenshots/TC-001-login-success.png
 
