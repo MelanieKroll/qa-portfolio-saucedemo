@@ -1,14 +1,22 @@
-\## BUG-001 Login Fehlermeldung schlecht sichtbar
+\## BUG-001: Login Fehlermeldung schlecht sichtbar
 
-Schritte:
 
-1\. Falsches Passwort eingeben
 
-2\. Login klicken
+\*\*Schritte:\*\*
 
-Erwartetes Ergebnis: Fehlermeldung klar sichtbar
+1\. Username: standard\_user
 
-Tatsächlich: schwer lesbar
+2\. Passwort: wrong\_password
 
-Beweis: /evidence/screenshots/login-error.png
+3\. Login klicken
+
+
+
+\*\*Erwartetes Ergebnis:\*\* Fehlermeldung gut lesbar
+
+\*\*Tatsächlich:\*\* Fehlermeldung schwer lesbar
+
+\*\*Status:\*\* Open
+
+\*\*Beweis:\*\* ../evidence/screenshots/BUG-001-login-fail.png
 
